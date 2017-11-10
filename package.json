@@ -1,28 +1,28 @@
 {
-  "name": "school-information-api",
-  "version": "1.0.0",
-  "description": "A Basic School Information System API built on Node webserver",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
-  },
-  "keywords": [
-    "basic",
-    "school",
-    "API",
-    "Information"
-  ],
-  "author": "Omoike Sarah Igho",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^1.12.1"
-  },
-  "dependencies": {
-    "body-parser": "^1.18.2",
-    "bootstrap": "^3.3.7",
-    "cors": "^2.8.4",
-    "express": "^4.16.2",
-    "mongoose": "^4.12.3"
-  }
+    "name": "school-information-api",
+    "version": "1.0.0",
+    "description": "A Basic School Information System API built on Node webserver",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "basic",
+        "school",
+        "API",
+        "Information"
+    ],
+    "author": "Omoike Sarah Igho",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^1.12.1"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "bootstrap": "^3.3.7",
+        "cors": "^2.8.4",
+        "express": "^4.16.2",
+        "mongoose": "^4.12.3"
+    }
 }
