@@ -1,4 +1,4 @@
-# ALC-2.0.Student_API
+# Student_API Consumption
 A basic school information system API built on Node webserver.
 The client side was built with Angular4.
 To test the API use this URL - https://webdevalc.herokuapp.com/
